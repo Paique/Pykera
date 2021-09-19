@@ -1,9 +1,5 @@
-### Hi there 👋
+### Aopa 👋
 
-<!--
-**Pykera/Pykera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Enxadahost
 - 🌱 I’m currently learning Java
@@ -13,4 +9,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Paique#5245
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like cats, how you discovered that?
--->
+
